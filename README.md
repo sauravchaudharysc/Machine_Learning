@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# Machine Learning
 
-You can use the [editor on GitHub](https://github.com/sauravchaudharysc/Machine_Learning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+“It gives computers the ability to learn without being explicitly programmed”.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Let’s try to understand Machine Learning in layman terms. Consider you are trying to toss a paper to a dustbin.
 
-### Markdown
+After first attempt, you realize that you have put too much force in it. After second attempt, you realize you are closer to target but you need to increase your throw angle. What is happening here is basically after every throw we are learning something and improving the end result. We are programmed to learn from our experience.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Suppose that you are watching netflix. Many time you see suggestion coming up there is a section titled “You might also like these movies”. This is a common use case of Machine Learning called “[Recommendation Engine](https://github.com/sauravchaudharysc/Movie-Recommendation-System)”. 
 
-```markdown
-Syntax highlighted code block
+So if you want your program to predict, for example, traffic patterns at a busy intersection (task T), you can run it through a machine learning algorithm with data about past traffic patterns (experience E) and, if it has successfully “learned”, it will then do better at predicting future traffic patterns (performance measure P).
 
-# Header 1
-## Header 2
-### Header 3
+## Applications of Machine Learning
 
-- Bulleted
-- List
+1. Facebook Facial Recognition
 
-1. Numbered
-2. List
+2. Play Games With Your Action
 
-**Bold** and _Italic_ and `Code` text
+3. Virtual Reality Headset
 
-[Link](url) and ![Image](src)
-```
+4. Robot Dogs 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+5. Ads i.e Facebook,Netflix,Amazon,Flipkart etc
 
-### Jekyll Themes
+   
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sauravchaudharysc/Machine_Learning/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Why Machine Learning is the Future?
 
-### Support or Contact
+We live in the 21st Century wherever we go there is data. The data maybe of the form when your are moving through out the city different antennas are picking you up, going through Facebook, sending a text message etc. Knowingly or Unknowingly data are being generated. It is growing exponentially.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+The Data Representation is :-
+
+![1](Introduction\1.png)
+
+
+
+The growth of data is represented below :- 
+
+![2](C:\Users\Saurav Chaudhary\Desktop\Machine Learning\Introduction\2.png)
+
+We can see in above figure how astonishing it is. The data is growing so quickly i.e exponentially. So machine learning comes into picture here. Only machine learning algorithm can process and bring out some useful result from this large amount of data.
