@@ -32,12 +32,12 @@ We live in the 21st Century wherever we go there is data. The data maybe of the 
 
 The Data Representation is :-
 
-![1](Introduction\1.png)
+![1](Introduction/1.png)
 
 
 
 The growth of data is represented below :- 
 
-![2](C:\Users\Saurav Chaudhary\Desktop\Machine Learning\Introduction\2.png)
+![2](Introduction/2.png)
 
 We can see in above figure how astonishing it is. The data is growing so quickly i.e exponentially. So machine learning comes into picture here. Only machine learning algorithm can process and bring out some useful result from this large amount of data.
