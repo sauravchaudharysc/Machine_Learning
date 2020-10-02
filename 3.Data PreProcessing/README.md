@@ -218,5 +218,5 @@ But in our data pre-processing template. We will keep those which are most frequ
   
   ```
 
-Get Complete Code at [datapreprocssingtemplate.py]()
+Get Complete Code at [datapreprocessingtemplate.py](https://github.com/sauravchaudharysc/Machine_Learning/blob/master/3.Data%20PreProcessing/datapreprocessingtemplate.py)
 
