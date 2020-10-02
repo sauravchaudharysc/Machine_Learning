@@ -41,3 +41,5 @@ The growth of data is represented below :-
 ![2](Introduction/2.png)
 
 We can see in above figure how astonishing it is. The data is growing so quickly i.e exponentially. So machine learning comes into picture here. Only machine learning algorithm can process and bring out some useful result from this large amount of data.
+
+# Visit this and start your step toward [Machine Learning](https://github.com/sauravchaudharysc/Machine_Learning/wiki/Machine-Learning)
